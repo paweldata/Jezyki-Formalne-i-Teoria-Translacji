@@ -6,3 +6,5 @@ Algorytmy wyszukiwania wzorca
 - Automaty skończone
 - Knuth-Morris-Pratt
 
+### Lista 2
+Analiza leksykalna (FLEX)
