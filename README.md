@@ -8,3 +8,6 @@ Algorytmy wyszukiwania wzorca
 
 ### Lista 2
 Analiza leksykalna (FLEX)
+
+### Lista 3
+Analiza leksykalna i składniowa (FLEX i BISON)
